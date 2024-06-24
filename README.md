@@ -4,7 +4,7 @@
 # Antonio A. Ferreira Jr
 
 ## Um Pouco Sobre Mim
-No momento fazendo apenas o Bootcamp DIO Java Beck End Developer, transição de carreira t
+No momento fazendo apenas o Bootcamp DIO Java Beck End Developer, terminei o bootcamp agora no rala, alone aulas e aulas transição de carreira 
 
 ## Minhas Redes Estão Abaixo:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/programadorantonio/) 
